@@ -1,0 +1,801 @@
+category,message,subject
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+ZWROT_PRODUKTU,Mam pytanko o zwrot produktu. Czy mogę to zrealizować jeśli zakupiłam towar cztery dni temu i mam paragon,Zwrotka produktów
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo zrealizować zwrot towary i go zwracam,Zwrot
+,"Na fakturze znaduje sie nieprawidłowy adres spolki. Jest ul. Wielka 1, a powinno być ul. Mickiewicza 3/12 Warszawa. Proszę o pilną korekte",Bledna f-ra
+FAKTURY,,Nie ma f-r
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa słabo. Czas na zmiany,Sugeruje
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, produkt dymi. Muszę zgłosić jego usterkę. Szczegóły w załączniku",Zgłoszenie gwarancyjne
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji konferencji,Partnerstwo
+UWAGI_DO_SKLEPU,Wyszukiwakra na państwa stronie działa słabo. Zmieńcie to bo wstyd,Zmieńcie to
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Chciałbym zapytać o produkt
+FAKTURY,Na f-k niewidzę nipu . Zmieńcie to,NIP na fakturze
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt w sklepie stacjonarnym?,Produkt
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, produkt dymi. Chciałem zgłosić jego usterkę. Szczegóły w załączniku",Zgłoszenie gwarancyjne
+DOSTAWA,Do dziś brak u mnie przesyłki produktów,Przesyłka
+ZWROT_PRODUKTU, posiadam ustawowe prawo zrealizować zwrot produkt i go oddaje,Zwrot towaru
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Sprawny marketing
+DOSTAWA,Szkoda słów brak u mnie kuriera,Brak towaru
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt w sklepie stacjonarnym?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji raportu eksperckiego,Partnerstwo
+ZWROT_PRODUKTU,Mam pytanko o zwrot produktu. Czy mogę to zrealizować gdy otrzymałem urządzenie pięć dni temu i mam paragon,Pytanie o zwrot
+REKLAMACJA_PRODUKTU,"Kilka dni po zakupieniu, mikser dymi. Chciałem zgłosić  usterkę. Szczegóły na zdjęciu",Reklamacja
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. ,
+FAKTURY,"Nie zaznaczyć funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie na stanie?,Chciałbym zapytać o produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji raportu eksperckiego,Partnerstwo
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam ustawowe prawo zwrócić towar i go oddaje,Zwrotka produktów
+INFORMACJE_O_ZAMOWIENIU, co z  zamówieniem. ,Zamówienie
+ZWROT_PRODUKTU,"Zgodnie  prawem chciałbym produkt zwrcóić w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Zwrot produktu
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam prawo oddać produkt i go oddaje,Zwrot
+DOSTAWA,Do dziś brak u mnie przesyłki,Przesyłka
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo zrealizować zwrot towary i go zwracam,Zwrotka produktów
+ZWROT_PRODUKTU, mam ustawowe prawo zrealizować zwrot towary i go zwracam,Zwrotka produktów
+ZWROT_PRODUKTU,Mam pytanie o zwrot urządzenia. Czy mogę to zrobić jeśli otrzymałam produkt cztery dni temu i mam fakture,Zwracam
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Kiedy będzie przesyłane,Zamówienie
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. Kiedy będzie realizowane,Zamowienie
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. Kiedy będzie realizowane,Zamowienie
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam prawo zrealizować zwrot towary i go oddaje,Zwrotka produktów
+ZWROT_PRODUKTU,Mam pytanie o zwrot produktu. Czy mogę to wykonać gdy zakupiłam towar 4 dni temu i mam paragon,Zwrot urządzenia
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa tak sobie. Napiszcie to w django,Sugestia do działania sklepu
+DOSTAWA,Szkoda słów brak u mnie kuriera,Przesyłka
+FAKTURY,"Nie mam faktury VAT do zamówienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma f-r
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa tak sobie. Napiszcie to w django,Sugestia
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na działania promocyjne,Owocna współpraca
+DOSTAWA,No brak u mnie przesyłki,Przesyłka
+FAKTURY,"Na fak. znajduje się nieprawidłowy adres spółki. Jest ul. Nicejska 12/3, a powinno być ul. Mickiewicza 2/1 Warszawa. Proszę o pilną korekte",Z błędem faktura VAR
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam prawo zwrócić produkt i go oddaje,Zwrot towaru
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar w sklepie stacjonarnym?,Chciałbym zapytać o produkt
+REKLAMACJA_PRODUKTU,"Kilka dni po zakupie, mikser nie działa. Muszę zgłosić jego reklamcje. Więcej patrz załącznik",Usterka
+FAKTURY,"Nie zaznaczyć funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa sklepem przy organizacji targów branżowych,Współpraca
+UWAGI_DO_SKLEPU,Wyszukiwanie w sklepie działa wolno. Napiszcie to w django,Zmieńcie to
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. ,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar dostępne?,Pytanie o produkt
+DOSTAWA,Wciąż brak u mnie przesyłki produktów,Przesyłka
+REKLAMACJA_PRODUKTU,"Tydzień po zakupieniu, urządzenie nie włącza się. Chciałem zgłosić  usterkę. Szczegóły na zdjęciu",Reklamacja
+DOSTAWA,No brak u mnie przesyłki,Brak przesyłki
+DOSTAWA,No brak u mnie kuriera,Przesyłka
+FAKTURY,"Nie zaznaczyć funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+DOSTAWA,No brak u mnie kuriera,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+FAKTURY,"Nie otrzymałem faktury VAT do zamówienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma faktury VAT
+UWAGI_DO_SKLEPU,Chat w sklepie działa słabo. Zmieńcie to bo wstyd,Sugestia do działania sklepu
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa słabo. Słabe to Magento,Sugestia do działania sklepu
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam ustawowe prawo zrealizować zwrot towary i go zwracam,Zwrot produktu
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupieniu, produkt zepsuło się. Muszę zgłosić  reklamcje. Więcej w skanie",Reklamacja
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie realizowane,Pytanie o zamówienie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na skuteczna reklama,Skuteczna reklama
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu ze sklepu, mikser dymi. Muszę zgłosić jego reklamcje. Szczegóły w załączniku",Reklamacja
+FAKTURY,"Nie wybrać funkcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+ZWROT_PRODUKTU,Zgodnie polskim prawem chce urzadzenie zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot towaru
+ZWROT_PRODUKTU,Mam question o zwrot produktu. Czy mogę to zrealizować jeśli kupiłam towar 4 dni temu i mam dowod zapłaty,Pytanie o zwrot
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt dostępne?,Info o produkcie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt w sklepie stacjonarnym?,Pytanie o produkt
+REKLAMACJA_PRODUKTU,"2 miesiące po zakupieniu, telefon nie działa. Muszę zgłosić  usterkę. Szczegóły patrz załącznik",Reklamacja
+FAKTURY,"Zapomniałem wybrać opcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+FAKTURY,"Na fak. znaduje sie zły adres firmy. Jest ul. Słowackiego 4, a powinno być ul. Francuska 4 3/12 Nysa. Proszę o pilną korekte",Błędna faktura
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym sklepem przy organizacji konferencji,Partnerstwo
+FAKTURY,Na fakturze nie ma NIP i nie moge rozliczyc faktury u ksiegowej mojej. Zmieńcie to,Gdzi nip
+FAKTURY,"Na fak. jest zły dane spółki. Jest al. Jedności Narodowej 30, a powinno być ul. Francuska 4 3/12 Warszawa. Proszę o pilną korekte",Z bledem faktura
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Brak towaru
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo zwrócić towar i go oddaje,Zwracam
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Info o produkcie
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Kiedy będzie realizowane,Zamowienie
+REKLAMACJA_PRODUKTU,"Kilka dni po zakupieniu, mikser zepsuło się. Chciałem zgłosić  usterkę. Więcej patrz załącznik",Gwarancja
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar ostatnie?,Produkt
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa strasznie wolno. Zmieńcie to bo wstyd,Sugeruje
+ZWROT_PRODUKTU,Zgodnie polskim prawem chciałbym urzadzenie oddać w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot
+ZWROT_PRODUKTU,"Zgodnie polskim prawem chce urzadzenie oddać w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Chciałbbym zwrócić
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. ,Zamówienie
+ZWROT_PRODUKTU,Zgodnie polskim prawem chce urzadzenie zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Chciałbbym zwrócić
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie przesyłane,Zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Info o produkcie
+ZWROT_PRODUKTU,Mam pytanie o oddanie urządzenia. Czy mogę to zrealizować gdy kupiłam produkt kilka dni temu i mam dowod zapłaty,Pytanie o zwrot
+FAKTURY,"Na fakturze jest nieprawidlowy dane firmy. Jest al. Jedności Narodowej 30, a powinno być ul. Mickiewicza 2/1 Wrocław. Proszę o pilną korekte",Z bledem faktura VAR
+REKLAMACJA_PRODUKTU,"2 miesiące po zakupieniu, mikser dymi. Muszę zgłosić jego reklamcje. Więcej na zdjęciu",Usterka
+REKLAMACJA_PRODUKTU,"Kwartał po zakupieniu, produkt nie włącza się. Chciałem zgłosić  reklamcje. Szczegóły w skanie",Zgłoszenie gwarancyjne
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam prawo zrealizować zwrot produkty i go oddaje,Zwrot
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie dostępne?,Info o produkcie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Produkt
+FAKTURY,Na f-k brak jest NIP . Zmieńcie to,Gdzi nip
+DOSTAWA,Szkoda słów brak u mnie kuriera,Brak przesyłki
+DOSTAWA,Do dziś brak u mnie przesyłki pocztowej,Brak towaru
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie na stanie?,Info o produkcie
+ZWROT_PRODUKTU,Zgodnie polskim prawem chce towar zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot towaru
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa tak sobie. Napiszcie to w django,Sugeruje
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Info o produkcie
+UWAGI_DO_SKLEPU,Wyszukiwanie na państwa stronie działa strasznie wolno. Zmieńcie to bo wstyd,Sugeruje
+FAKTURY,"Nie wybrać funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+UWAGI_DO_SKLEPU,Obrazki na stronie działa słabo. Czas na zmiany,Sugestia do działania sklepu
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa strasznie wolno. Czas na zmiany,Sugeruje
+ZWROT_PRODUKTU,"Zgodnie polskim prawem chciałbym produkt oddać w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Zwrot towaru
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+UWAGI_DO_SKLEPU,Wyszukiwanie na państwa stronie działa wolno. Słabe to Magento,Zmieńcie to
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu ze sklepu, telefon zepsuło się. Chciałem zgłosić jego usterkę. Szczegóły w skanie",Gwarancja
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania promocyjne,Owocna współpraca
+FAKTURY,"Nie mam faktury do zamówienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma faktury
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym sklepem przy organizacji targów branżowych,Partnerstwo
+FAKTURY,"Nie zaznaczyć opcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji konferencji,Partnerstwo
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupie, urządzenie nie działa. Muszę zgłosić jego reklamcje. Szczegóły patrz załącznik",Gwarancja
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa e-sklepem przy organizacji stowarzyszenia e-commerce,Partnerstwo
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar ostatnie?,Pytanie o produkt
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Pytanie o produkt
+ZWROT_PRODUKTU,Zgodnie polskim prawem musze urzadzenie oddać w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot produktu
+UWAGI_DO_SKLEPU,Obrazki na stronie działa tak sobie. Słabe to Magento,Sugestia
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu ze sklepu, telefon zepsuło się. Chciałem zgłosić  reklamcje. Więcej patrz załącznik",Gwarancja
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu, produkt nie włącza się. Chciałem zgłosić  reklamcje. Więcej w skanie",Reklamacja
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa strasznie wolno. Napiszcie to w django,Sugestia
+FAKTURY,"Nie wybrać opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+ZWROT_PRODUKTU,Mam pytanie o zwrot towaru. Czy mogę to zrealizować gdy zakupiłam produkt dwa dni temu i mam fakture,Zwracam
+UWAGI_DO_SKLEPU,Wyszukiwakra na państwa stronie działa słabo. Napiszcie to w django,Zmieńcie to
+ZWROT_PRODUKTU, posiadam ustawowe prawo oddać produkt i go zwracam,Zwrot produktu
+UWAGI_DO_SKLEPU,Chat w sklepie działa strasznie wolno. Napiszcie to w django,Sugestia
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania reklamowe,Skuteczna reklama
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa wolno. Napiszcie to w django,Sugestia do działania sklepu
+REKLAMACJA_PRODUKTU,"Dziesięć dni po zakupieniu, mikser nie działa. Chciałem zgłosić jego usterkę. Szczegóły patrz załącznik",Reklamacja
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo oddać produkty i go oddaje,Zwracam
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa wolno. Czas na zmiany,Sugeruje
+UWAGI_DO_SKLEPU,Wyszukiwanie na stronie działa tak sobie. Napiszcie to w django,Sugestia do działania sklepu
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji konferencji,Partnerstwo
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na skuteczna reklama,Owocna współpraca
+FAKTURY,"Nie wybrać funkcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu ze sklepu, urządzenie nie działa. Muszę zgłosić  usterkę. Szczegóły na zdjęciu",Reklamacja
+DOSTAWA,No brak u mnie przesyłki pocztowej,Przesyłka
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt ostatnie?,Info o produkcie
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. ,Zamówienie
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa wolno. Wynajmićie lepszych programistów,Sugestia do działania sklepu
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania reklamowe,Skuteczna reklama
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na działania promocyjne,Sprawny marketing
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na skuteczna reklama,Skuteczna reklama
+REKLAMACJA_PRODUKTU,"Kwartał po zakupieniu, urządzenie nie działa. Chciałem zgłosić  usterkę. Szczegóły w skanie",Usterka
+FAKTURY,"Nie zaznaczyć opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. ,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na skuteczna reklama,Skuteczna reklama
+DOSTAWA,Wciąż brak u mnie kuriera,Brak towaru
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. ,Zamowienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Kiedy będzie przesyłane,Zamowienie
+ZWROT_PRODUKTU,Zgodnie  prawem musze urzadzenie oddać w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot produktu
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji stowarzyszenia e-commerce,Współpraca
+FAKTURY,Na f-k niewidzę nipu . Zmieńcie to,Brak nip
+ZWROT_PRODUKTU,Zgodnie  prawem chce towar oddać w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot produktu
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym sklepem przy organizacji konferencji,Współpraca
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie dostępne?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym sklepem przy organizacji targów branżowych,Współpraca
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar w sklepie stacjonarnym?,Pytanie o produkt
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie w sklepie stacjonarnym?,Chciałbym zapytać o produkt
+DOSTAWA,Do dziś brak u mnie kuriera,Przesyłka
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na skuteczna reklama,Owocna współpraca
+REKLAMACJA_PRODUKTU,"Tydzień po odebraniu ze sklepu, mikser zepsuło się. Chciałem zgłosić jego reklamcje. Więcej patrz załącznik",Usterka
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar ostatnie?,Pytanie o produkt
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa słabo. Czas na zmiany,Sugeruje
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. ,Pytanie o zamówienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa e-sklepem przy organizacji konferencji,Partnerstwo
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania reklamowe,Owocna współpraca
+UWAGI_DO_SKLEPU,Chat w sklepie działa słabo. Słabe to Magento,Sugeruje
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa wolno. Słabe to Magento,Sugeruje
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+FAKTURY,"Na fakturze jest nieprawidłowy adres spółki. Jest ul. Słowackiego 12/3, a powinno być ul. Mickiewicza 4 Opole. Proszę o pilną korekte",Błędna f-ra
+FAKTURY,"Zapomniałem zaznaczyć funkcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+ZWROT_PRODUKTU, mam ustawowe prawo zrealizować zwrot urządzenie i go zwracam,Zwrot towaru
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupieniu, mikser nie włącza się. Muszę zgłosić jego usterkę. Szczegóły w skanie",Reklamacja
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. ,Zamowienie
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Brak towaru
+UWAGI_DO_SKLEPU,Chat na stronie działa wolno. Słabe to Magento,Sugestia do działania sklepu
+FAKTURY,"Nie otrzymałem faktury do zamowienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma f-r
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa tak sobie. Zmieńcie to bo wstyd,Sugestia
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu, mikser nie działa. Muszę zgłosić jego reklamcje. Szczegóły w załączniku",Gwarancja
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Sprawny marketing
+UWAGI_DO_SKLEPU,Wyszukiwanie na państwa stronie działa strasznie wolno. Słabe to Magento,Zmieńcie to
+ZWROT_PRODUKTU,Mam question o zwrot towaru. Czy mogę to zrobić gdy zakupiłam towar cztery dni temu i mam dowod zapłaty,Zwrot urządzenia
+DOSTAWA,Szkoda słów brak u mnie przesyłki produktów,Przesyłka
+ZWROT_PRODUKTU,Zgodnie  prawem chciałbym urzadzenie oddać w ciągu 14 dni. Zwrot musi być realizowany.,Chciałbbym zwrócić
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa sklepem przy organizacji targów branżowych,Współpraca
+FAKTURY,"Na fakturze znaduje sie nieprawidlowy dane firmy. Jest ul. Słowackiego 1, a powinno być ul. Jedności Narodowej 14a/5 Kluczbork. Proszę o pilną korekte",Błędna faktura
+DOSTAWA,Do dziś brak u mnie przesyłki produktów,Przesyłka
+DOSTAWA,Szkoda słów brak u mnie zamówione towaru,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt w sklepie stacjonarnym?,Produkt
+UWAGI_DO_SKLEPU,Chat na stronie działa tak sobie. Wynajmićie lepszych programistów,Zmieńcie to
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie w sklepie stacjonarnym?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym e-sklepem przy organizacji stowarzyszenia e-commerce,Współpraca
+ZWROT_PRODUKTU,Mam pytanko o zwrot produktu. Czy mogę to zrealizować gdy kupiłam urządzenie dziesięć dni temu i mam paragon,Zwracam
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam prawo oddać towar i go zwracam,Zwrot
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+REKLAMACJA_PRODUKTU,"Naście dni po odebraniu ze sklepu, telefon dymi. Muszę zgłosić  reklamcje. Szczegóły w skanie",Gwarancja
+FAKTURY,Na f-k brak jest nipu . Zmieńcie to,Gdzi nip
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Sprawny marketing
+ZWROT_PRODUKTU, mam prawo oddać urządzenie i go oddaje,Zwrot produktu
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa strasznie wolno. Wynajmićie lepszych programistów,Zmieńcie to
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa strasznie wolno. Słabe to Magento,Sugestia do działania sklepu
+FAKTURY,"Nie mam faktury do zamówienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma faktury
+ZWROT_PRODUKTU,Mam pytanko o zwrot urządzenia. Czy mogę to zrobić jeśli kupułem urządzenie kilka dni temu i mam fakture,Zwrot produktu
+UWAGI_DO_SKLEPU,Wyszukiwanie na państwa stronie działa strasznie wolno. Czas na zmiany,Sugestia
+ZWROT_PRODUKTU,Zgodnie  prawem chciałbym produkt oddać w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot towaru
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie dostępne?,Chciałbym zapytać o produkt
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. ,Pytanie o zamówienie
+DOSTAWA,Do dziś brak u mnie zamówione towaru,Przesyłka
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Czy towary są skompletowane,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa sklepem przy organizacji stowarzyszenia e-commerce,Partnerstwo
+UWAGI_DO_SKLEPU,Wyszukiwanie w sklepie działa strasznie wolno. Napiszcie to w django,Sugeruje
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Kiedy będzie przesyłane,Zamówienie
+FAKTURY,"Nie było faktury VAT do zamowienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma faktury
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt na stanie?,Info o produkcie
+FAKTURY,Na f-k brak jest nipu . Zmieńcie to,Brak nip
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu, mikser nie działa. Chciałem zgłosić  reklamcje. Szczegóły w załączniku",Gwarancja
+REKLAMACJA_PRODUKTU,"Kilka dni po zakupie, urządzenie zepsuło się. Chciałem zgłosić  usterkę. Szczegóły patrz załącznik",Zgłoszenie gwarancyjne
+UWAGI_DO_SKLEPU,Wyszukiwakra w sklepie działa tak sobie. Wynajmićie lepszych programistów,Sugestia do działania sklepu
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. ,Zamowienie
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, produkt dymi. Muszę zgłosić  usterkę. Szczegóły w skanie",Zgłoszenie gwarancyjne
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa słabo. Słabe to Magento,Zmieńcie to
+FAKTURY,"Nie otrzymałem f-ry do zamówienia, a bardzo mi zależało",Brak faktury VAT
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie dostępne?,Chciałbym zapytać o produkt
+DOSTAWA,Do dziś brak u mnie kuriera,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Czy towary są skompletowane,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania reklamowe,Sprawny marketing
+UWAGI_DO_SKLEPU,Wyszukiwanie na państwa stronie działa tak sobie. Słabe to Magento,Sugeruje
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Czy towary są skompletowane,Zamówienie
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Brak towaru
+ZWROT_PRODUKTU,Mam question o oddanie urządzenia. Czy mogę to wykonać gdy zakupiłam produkt kilka dni temu i mam dowod zapłaty,Zwrot urządzenia
+FAKTURY,"Na fak. jest nieprawidłowy dane firmy. Jest ul. Słowackiego 30, a powinno być ul. Mickiewicza 2/1 Opole. Proszę o pilną korekte",Z bledem faktura VAR
+UWAGI_DO_SKLEPU,Chat w sklepie działa wolno. Wynajmićie lepszych programistów,Sugeruje
+REKLAMACJA_PRODUKTU,"Miesiąc po odebraniu ze sklepu, urządzenie zepsuło się. Muszę zgłosić  reklamcje. Szczegóły na zdjęciu",Reklamacja
+DOSTAWA,No brak u mnie kuriera,Brak przesyłki
+ZWROT_PRODUKTU, posiadam ustawowe prawo oddać produkt i go zwracam,Zwrot urządzenia
+ZWROT_PRODUKTU, posiadam prawo oddać towar i go oddaje,Zwracam
+FAKTURY,"Nie było f-ry do zamówienia, a bardzo mi zależało",Nie ma faktury
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa sklepem przy organizacji konferencji,Współpraca
+DOSTAWA,No brak u mnie zamówione towaru,Brak towaru
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na skuteczna reklama,Skuteczna reklama
+REKLAMACJA_PRODUKTU,"Tydzień po zakupieniu, mikser zepsuło się. Chciałem zgłosić  reklamcje. Więcej w skanie",Reklamacja
+DOSTAWA,No brak u mnie zamówione towaru,Przesyłka
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo zwrócić towar i go zwracam,Chciałbbym zwrócić
+UWAGI_DO_SKLEPU,Wyszukiwanie na państwa stronie działa wolno. Słabe to Magento,Sugeruje
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupieniu, mikser nie działa. Chciałem zgłosić jego usterkę. Więcej patrz załącznik",Usterka
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt ostatnie?,Pytanie o produkt
+UWAGI_DO_SKLEPU,Chat w sklepie działa wolno. Słabe to Magento,Sugeruje
+UWAGI_DO_SKLEPU,Chat na stronie działa słabo. Napiszcie to w django,Zmieńcie to
+FAKTURY,"Nie mam faktury do zamowienia, a bardzo mi zależało",Nie ma faktury
+FAKTURY,"Zapomniałem wybrać opcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+ZWROT_PRODUKTU,Zgodnie polskim prawem musze towar oddać w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot
+DOSTAWA,No brak u mnie przesyłki produktów,Brak towaru
+FAKTURY,"Na fakturze jest nieprawidlowy adres spółki. Jest ul. Nicejska 4, a powinno być ul. Mickiewicza 3/12 Wrocław. Proszę o pilną korekte",Bledna f-ra
+ZWROT_PRODUKTU,Zgodnie polskim prawem chciałbym produkt oddać w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot urządzenia
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa tak sobie. Napiszcie to w django,Sugestia do działania sklepu
+DOSTAWA,Wciąż brak u mnie przesyłki pocztowej,Brak towaru
+FAKTURY,"Nie zaznaczyć funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania promocyjne,Owocna współpraca
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania promocyjne,Skuteczna reklama
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, urządzenie dymi. Chciałem zgłosić jego usterkę. Więcej na zdjęciu",Zgłoszenie gwarancyjne
+REKLAMACJA_PRODUKTU,"2 miesiące po zakupieniu, mikser nie działa. Chciałem zgłosić jego reklamcje. Szczegóły patrz załącznik",Zgłoszenie gwarancyjne
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu ze sklepu, mikser nie działa. Muszę zgłosić jego reklamcje. Więcej w skanie",Zgłoszenie gwarancyjne
+DOSTAWA,Do dziś brak u mnie przesyłki produktów,Brak towaru
+ZWROT_PRODUKTU,Mam pytanko o oddanie produktu. Czy mogę to zrobić jeśli otrzymałam towar dwa dni temu i mam fakture,Zwracam
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Czy towary są skompletowane,Zamowienie
+REKLAMACJA_PRODUKTU,"Kwartał po zakupieniu, produkt dymi. Muszę zgłosić  usterkę. Więcej na zdjęciu",Usterka
+ZWROT_PRODUKTU,Mam pytanko o oddanie urządzenia. Czy mogę to zrealizować gdy otrzymałem urządzenie 4 dni temu i mam dowod zapłaty,Pytanie o zwrot
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie w sklepie stacjonarnym?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa sklepem przy organizacji stowarzyszenia e-commerce,Partnerstwo
+ZWROT_PRODUKTU,Mam pytanko o oddanie towaru. Czy mogę to zrobić gdy otrzymałem towar cztery dni temu i mam dowod zapłaty,Zwrotka produktów
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie realizowane,Zamówienie
+INFORMACJE_O_ZAMOWIENIU, co z  zamówieniem. ,Pytanie o zamówienie
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa strasznie wolno. Zmieńcie to bo wstyd,Sugeruje
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym sklepem przy organizacji targów branżowych,Współpraca
+ZWROT_PRODUKTU,"Zgodnie  prawem musze produkt zwrcóić w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Zwrot urządzenia
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, telefon nie działa. Muszę zgłosić  reklamcje. Więcej na zdjęciu",Reklamacja
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie przesyłane,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania promocyjne,Sprawny marketing
+DOSTAWA,Do dziś brak u mnie zamówione towaru,Przesyłka
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa słabo. Słabe to Magento,Sugestia do działania sklepu
+DOSTAWA,No brak u mnie zamówione towaru,Brak towaru
+FAKTURY,"Nie mam f-ry do zamówienia, a wyraźnie prosiłem oto zamawiając towary",Brak f-r
+DOSTAWA,No brak u mnie przesyłki pocztowej,Przesyłka
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupie, urządzenie nie włącza się. Muszę zgłosić jego usterkę. Więcej patrz załącznik",Reklamacja
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar w sklepie stacjonarnym?,Chciałbym zapytać o produkt
+FAKTURY,"Zapomniałem wybrać funkcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+REKLAMACJA_PRODUKTU,"Tydzień po odebraniu, produkt nie włącza się. Muszę zgłosić  usterkę. Szczegóły patrz załącznik",Reklamacja
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie realizowane,Zamówienie
+FAKTURY,"Nie wybrać opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na skuteczna reklama,Sprawny marketing
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt w sklepie stacjonarnym?,Info o produkcie
+REKLAMACJA_PRODUKTU,"Tydzień po zakupieniu, mikser nie włącza się. Chciałem zgłosić jego reklamcje. Więcej w załączniku",Gwarancja
+FAKTURY,"Nie zaznaczyć opcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu ze sklepu, produkt dymi. Muszę zgłosić jego usterkę. Szczegóły patrz załącznik",Gwarancja
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie realizowane,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym e-sklepem przy organizacji targów branżowych,Partnerstwo
+ZWROT_PRODUKTU,Mam pytanie o oddanie produktu. Czy mogę to zrobić jeśli otrzymałam towar cztery dni temu i mam dowod zapłaty,Zwrotka produktów
+DOSTAWA,No brak u mnie przesyłki produktów,Brak towaru
+REKLAMACJA_PRODUKTU,"Kwartał po zakupieniu, produkt zepsuło się. Chciałem zgłosić  reklamcje. Szczegóły w załączniku",Reklamacja
+REKLAMACJA_PRODUKTU,"Tydzień po zakupieniu, urządzenie nie działa. Muszę zgłosić  usterkę. Więcej w załączniku",Zgłoszenie gwarancyjne
+FAKTURY,Na f-k brak jest NIP i nie mam jak rozliczyć. Zmieńcie to,NIP na fakturze
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Czy towary są skompletowane,Zamówienie
+REKLAMACJA_PRODUKTU,"Kilka dni po odebraniu, urządzenie nie włącza się. Muszę zgłosić jego usterkę. Szczegóły w skanie",Reklamacja
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa sklepem przy organizacji targów branżowych,Współpraca
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. ,Zamówienie
+FAKTURY,"Na fak. znaduje sie nieprawidlowy dane spółki. Jest ul. Wielka 30, a powinno być ul. Mickiewicza 14a/5 Warszawa. Proszę o pilną korekte",Z błędem faktura
+UWAGI_DO_SKLEPU,Wyszukiwakra w sklepie działa tak sobie. Słabe to Magento,Sugeruje
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu, mikser dymi. Chciałem zgłosić jego reklamcje. Więcej patrz załącznik",Reklamacja
+ZWROT_PRODUKTU, mam prawo zrealizować zwrot produkt i go oddaje,Zwrot
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu, urządzenie nie włącza się. Muszę zgłosić  usterkę. Więcej w skanie",Gwarancja
+UWAGI_DO_SKLEPU,Wyszukiwanie w sklepie działa słabo. Napiszcie to w django,Zmieńcie to
+FAKTURY,Na f-k niewidzę nipu i nie moge rozliczyc faktury u ksiegowej mojej. Zmieńcie to,Gdzi nip
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie przesyłane,Zamówienie
+DOSTAWA,Szkoda słów brak u mnie zamówione towaru,Brak towaru
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar dostępne?,Info o produkcie
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu, telefon dymi. Muszę zgłosić  reklamcje. Więcej patrz załącznik",Usterka
+UWAGI_DO_SKLEPU,Wyszukiwanie w sklepie działa wolno. Słabe to Magento,Zmieńcie to
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa tak sobie. Wynajmićie lepszych programistów,Sugestia
+ZWROT_PRODUKTU,Mam pytanko o zwrot urządzenia. Czy mogę to zrobić jeśli kupułem produkt dziesięć dni temu i mam dowod zapłaty,Zwrot urządzenia
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie realizowane,Zamowienie
+DOSTAWA,Do dziś brak u mnie kuriera,Brak towaru
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam prawo zrealizować zwrot urządzenie i go oddaje,Zwrot produktu
+DOSTAWA,Do dziś brak u mnie zamówione towaru,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. ,Zamowienie
+DOSTAWA,Wciąż brak u mnie zamówione towaru,Przesyłka
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania promocyjne,Sprawny marketing
+DOSTAWA,Wciąż brak u mnie przesyłki,Brak przesyłki
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Brak towaru
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar dostępne?,Info o produkcie
+ZWROT_PRODUKTU,Zgodnie  prawem chciałbym urzadzenie oddać w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt ostatnie?,Pytanie o produkt
+FAKTURY,"Na fakturze jest nieprawidlowy adres spółki. Jest al. Jedności Narodowej 12/3, a powinno być ul. Jedności Narodowej 4 Wrocław. Proszę o pilną korekte",Z bledem faktura
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. ,Zamowienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt ostatnie?,Chciałbym zapytać o produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym sklepem przy organizacji targów branżowych,Partnerstwo
+FAKTURY,"Nie otrzymałem f-ry do zamówienia, a bardzo mi zależało",Brak faktury VAT
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa strasznie wolno. Czas na zmiany,Zmieńcie to
+FAKTURY,"Na fakturze jest nieprawidlowy adres firmy. Jest al. Jedności Narodowej 30, a powinno być ul. Mickiewicza 4 Wrocław. Proszę o pilną korekte",Błędna faktura
+DOSTAWA,Wciąż brak u mnie kuriera,Brak przesyłki
+ZWROT_PRODUKTU,"Zgodnie polskim prawem chciałbym urzadzenie oddać w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Zwrot
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. ,Zamówienie
+FAKTURY,"Nie zaznaczyć opcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+DOSTAWA,Szkoda słów brak u mnie przesyłki produktów,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. Czy towary są skompletowane,Zamowienie
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu ze sklepu, telefon nie działa. Muszę zgłosić  usterkę. Szczegóły w skanie",Reklamacja
+UWAGI_DO_SKLEPU,Obrazki na stronie działa tak sobie. Słabe to Magento,Sugestia do działania sklepu
+DOSTAWA,Do dziś brak u mnie przesyłki,Brak towaru
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar na stanie?,Info o produkcie
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+DOSTAWA,Do dziś brak u mnie kuriera,Przesyłka
+DOSTAWA,Szkoda słów brak u mnie zamówione towaru,Brak towaru
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam prawo zwrócić produkty i go oddaje,Zwrotka produktów
+REKLAMACJA_PRODUKTU,"Tydzień po zakupieniu, telefon nie włącza się. Muszę zgłosić jego reklamcje. Więcej w załączniku",Reklamacja
+FAKTURY,"Nie było f-ry do zamowienia, a bardzo mi zależało",Nie ma faktury
+FAKTURY,"Na fak. znaduje sie nieprawidłowy adres spółki. Jest ul. Wielka 30, a powinno być ul. Jedności Narodowej 2/1 Kluczbork. Proszę o pilną korekte",Z błędem f-ra
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym sklepem przy organizacji stowarzyszenia e-commerce,Partnerstwo
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar w sklepie stacjonarnym?,Pytanie o produkt
+DOSTAWA,No brak u mnie zamówione towaru,Przesyłka
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa strasznie wolno. Czas na zmiany,Sugeruje
+UWAGI_DO_SKLEPU,Chat na stronie działa tak sobie. Słabe to Magento,Sugestia do działania sklepu
+FAKTURY,Na fakturze brak jest nipu i nie mam jak rozliczyć. Zmieńcie to,NIP na fakturze
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu, urządzenie zepsuło się. Chciałem zgłosić jego usterkę. Szczegóły w załączniku",Usterka
+DOSTAWA,No brak u mnie przesyłki pocztowej,Brak towaru
+ZWROT_PRODUKTU,Mam pytanko o zwrot urządzenia. Czy mogę to zrealizować gdy kupułem produkt kilka dni temu i mam dowod zapłaty,Zwrotka produktów
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie na stanie?,Produkt
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Pytanie o produkt
+UWAGI_DO_SKLEPU,Wyszukiwakra w sklepie działa strasznie wolno. Zmieńcie to bo wstyd,Sugeruje
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania reklamowe,Skuteczna reklama
+FAKTURY,"Nie było f-ry do zamówienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma faktury VAT
+FAKTURY,"Na fak. jest nieprawidłowy dane firmy. Jest al. Jedności Narodowej 30, a powinno być ul. Mickiewicza 4 Nysa. Proszę o pilną korekte",Bledna faktura
+UWAGI_DO_SKLEPU,Chat na stronie działa słabo. Czas na zmiany,Zmieńcie to
+ZWROT_PRODUKTU,Zgodnie  prawem musze urzadzenie zwrcóić w ciągu 14 dni. Zwrot musi być realizowany.,Chciałbbym zwrócić
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji raportu eksperckiego,Partnerstwo
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie realizowane,Pytanie o zamówienie
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie dostępne?,Info o produkcie
+DOSTAWA,Wciąż brak u mnie przesyłki pocztowej,Brak towaru
+REKLAMACJA_PRODUKTU,"Tydzień po zakupieniu, produkt nie działa. Chciałem zgłosić jego usterkę. Więcej w załączniku",Gwarancja
+DOSTAWA,Szkoda słów brak u mnie przesyłki pocztowej,Przesyłka
+REKLAMACJA_PRODUKTU,"Dziesięć dni po zakupie, telefon zepsuło się. Muszę zgłosić jego reklamcje. Szczegóły na zdjęciu",Zgłoszenie gwarancyjne
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie w sklepie stacjonarnym?,Produkt
+UWAGI_DO_SKLEPU,Wyszukiwanie w sklepie działa słabo. Wynajmićie lepszych programistów,Sugeruje
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. ,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania reklamowe,Owocna współpraca
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na działania reklamowe,Skuteczna reklama
+FAKTURY,Na fakturze brak jest nipu . Zmieńcie to,Gdzi nip
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania promocyjne,Skuteczna reklama
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym sklepem przy organizacji konferencji,Współpraca
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Sprawny marketing
+FAKTURY,"Zapomniałem wybrać funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym sklepem przy organizacji konferencji,Współpraca
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie ostatnie?,Chciałbym zapytać o produkt
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie ostatnie?,Pytanie o produkt
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania promocyjne,Skuteczna reklama
+DOSTAWA,Szkoda słów brak u mnie przesyłki produktów,Przesyłka
+DOSTAWA,No brak u mnie kuriera,Przesyłka
+DOSTAWA,Do dziś brak u mnie zamówione towaru,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie realizowane,Pytanie o zamówienie
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa tak sobie. Wynajmićie lepszych programistów,Sugeruje
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa strasznie wolno. Napiszcie to w django,Sugestia do działania sklepu
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z moim zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji targów branżowych,Współpraca
+INFORMACJE_O_ZAMOWIENIU, co z  zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+DOSTAWA,Szkoda słów brak u mnie zamówione towaru,Brak towaru
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na skuteczna reklama,Skuteczna reklama
+DOSTAWA,No brak u mnie przesyłki,Brak towaru
+REKLAMACJA_PRODUKTU,"2 miesiące po zakupie, urządzenie zepsuło się. Chciałem zgłosić  usterkę. Szczegóły w załączniku",Reklamacja
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na działania reklamowe,Sprawny marketing
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt dostępne?,Pytanie o produkt
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu, mikser nie włącza się. Muszę zgłosić  reklamcje. Szczegóły na zdjęciu",Reklamacja
+ZWROT_PRODUKTU,Zgodnie  prawem chciałbym urzadzenie oddać w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar dostępne?,Produkt
+REKLAMACJA_PRODUKTU,"Kilka dni po zakupie, produkt zepsuło się. Chciałem zgłosić  usterkę. Więcej w załączniku",Usterka
+ZWROT_PRODUKTU,Zgodnie polskim prawem chciałbym towar zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot produktu
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. ,Pytanie o zamówienie
+FAKTURY,"Na fak. jest nieprawidłowy dane firmy. Jest ul. Słowackiego 30, a powinno być ul. Jedności Narodowej 2/1 Warszawa. Proszę o pilną korekte",Z bledem faktura
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie na stanie?,Info o produkcie
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu, telefon nie działa. Chciałem zgłosić  reklamcje. Szczegóły patrz załącznik",Zgłoszenie gwarancyjne
+UWAGI_DO_SKLEPU,Wyszukiwanie na państwa stronie działa tak sobie. Czas na zmiany,Sugestia do działania sklepu
+DOSTAWA,Do dziś brak u mnie kuriera,Brak przesyłki
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt dostępne?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Skuteczna reklama
+ZWROT_PRODUKTU,Mam pytanko o oddanie towaru. Czy mogę to wykonać jeśli kupiłam towar dwa dni temu i mam paragon,Zwrot urządzenia
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji targów branżowych,Partnerstwo
+DOSTAWA,Szkoda słów brak u mnie kuriera,Brak przesyłki
+ZWROT_PRODUKTU,Zgodnie  prawem musze urzadzenie zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot produktu
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. ,Zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Chciałbym zapytać o produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji targów branżowych,Partnerstwo
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt ostatnie?,Info o produkcie
+UWAGI_DO_SKLEPU,Chat na stronie działa wolno. Napiszcie to w django,Zmieńcie to
+FAKTURY,"Zapomniałem zaznaczyć opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Owocna współpraca
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam prawo zrealizować zwrot towary i go zwracam,Zwrot
+UWAGI_DO_SKLEPU,Obrazki na stronie działa wolno. Wynajmićie lepszych programistów,Sugestia
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar w sklepie stacjonarnym?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym e-sklepem przy organizacji raportu eksperckiego,Partnerstwo
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na skuteczna reklama,Owocna współpraca
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, mikser nie działa. Chciałem zgłosić jego usterkę. Szczegóły na zdjęciu",Zgłoszenie gwarancyjne
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar ostatnie?,Chciałbym zapytać o produkt
+FAKTURY,"Nie było faktury VAT do zamowienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma faktury
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Kiedy będzie realizowane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie dostępne?,Chciałbym zapytać o produkt
+DOSTAWA,No brak u mnie kuriera,Brak towaru
+FAKTURY,"Nie wybrać opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu, urządzenie nie włącza się. Muszę zgłosić jego reklamcje. Szczegóły na zdjęciu",Reklamacja
+REKLAMACJA_PRODUKTU,"Kilka dni po odebraniu, telefon dymi. Muszę zgłosić jego usterkę. Więcej na zdjęciu",Gwarancja
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt na stanie?,Pytanie o produkt
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z moim zamówieniem. Kiedy będzie przesyłane,Zamowienie
+REKLAMACJA_PRODUKTU,"Naście dni po zakupie, urządzenie dymi. Muszę zgłosić jego usterkę. Szczegóły na zdjęciu",Zgłoszenie gwarancyjne
+INFORMACJE_O_ZAMOWIENIU, co z  zamówieniem. Kiedy będzie realizowane,Zamowienie
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji raportu eksperckiego,Współpraca
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, produkt nie włącza się. Muszę zgłosić jego usterkę. Szczegóły w załączniku",Zgłoszenie gwarancyjne
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt w sklepie stacjonarnym?,Info o produkcie
+DOSTAWA,Szkoda słów brak u mnie zamówione towaru,Brak towaru
+DOSTAWA,Wciąż brak u mnie kuriera,Przesyłka
+REKLAMACJA_PRODUKTU,"Naście dni po odebraniu ze sklepu, mikser zepsuło się. Chciałem zgłosić  usterkę. Szczegóły w skanie",Gwarancja
+FAKTURY,"Na fakturze znajduje się nieprawidłowy dane firmy. Jest al. Jedności Narodowej 4, a powinno być ul. Francuska 4 3/12 Opole. Proszę o pilną korekte",Błędna faktura
+REKLAMACJA_PRODUKTU,"Kilka dni po zakupieniu, telefon nie włącza się. Muszę zgłosić jego usterkę. Więcej w skanie",Usterka
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym sklepem przy organizacji targów branżowych,Współpraca
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt dostępne?,Chciałbym zapytać o produkt
+DOSTAWA,No brak u mnie przesyłki,Przesyłka
+DOSTAWA,Wciąż brak u mnie przesyłki,Brak towaru
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa sklepem przy organizacji konferencji,Partnerstwo
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt ostatnie?,Chciałbym zapytać o produkt
+UWAGI_DO_SKLEPU,Obrazki na stronie działa słabo. Zmieńcie to bo wstyd,Sugestia
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt ostatnie?,Chciałbym zapytać o produkt
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Przesyłka
+ZWROT_PRODUKTU, posiadam ustawowe prawo oddać urządzenie i go oddaje,Zwracam
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie na stanie?,Info o produkcie
+DOSTAWA,Wciąż brak u mnie kuriera,Brak towaru
+FAKTURY,Na f-k nie ma nipu i nie mam jak rozliczyć. Zmieńcie to,NIP na fakturze
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Owocna współpraca
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar dostępne?,Chciałbym zapytać o produkt
+REKLAMACJA_PRODUKTU,"Miesiąc po odebraniu ze sklepu, produkt zepsuło się. Muszę zgłosić jego usterkę. Szczegóły w załączniku",Usterka
+DOSTAWA,No brak u mnie zamówione towaru,Przesyłka
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji stowarzyszenia e-commerce,Współpraca
+UWAGI_DO_SKLEPU,Chat w sklepie działa wolno. Słabe to Magento,Sugeruje
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji targów branżowych,Współpraca
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa strasznie wolno. Wynajmićie lepszych programistów,Sugestia
+FAKTURY,"Nie zaznaczyć funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+UWAGI_DO_SKLEPU,Wyszukiwanie w sklepie działa strasznie wolno. Słabe to Magento,Sugestia do działania sklepu
+FAKTURY,Na fakturze niewidzę nipu . Zmieńcie to,Brak nip
+FAKTURY,"Na fak. znajduje się nieprawidłowy adres spolki. Jest ul. Nicejska 12/3, a powinno być ul. Jedności Narodowej 4 Kluczbork. Proszę o pilną korekte",Bledna faktura VAR
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar dostępne?,Info o produkcie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na skuteczna reklama,Owocna współpraca
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na skuteczna reklama,Skuteczna reklama
+ZWROT_PRODUKTU,Mam pytanie o oddanie towaru. Czy mogę to wykonać jeśli kupiłam urządzenie dwa dni temu i mam paragon,Zwrot produktu
+ZWROT_PRODUKTU, posiadam ustawowe prawo zrealizować zwrot towar i go zwracam,Zwrot towaru
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo zwrócić urządzenie i go oddaje,Zwrotka produktów
+UWAGI_DO_SKLEPU,Chat na stronie działa wolno. Słabe to Magento,Sugestia do działania sklepu
+DOSTAWA,No brak u mnie przesyłki pocztowej,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. ,Zamówienie
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupieniu, telefon dymi. Muszę zgłosić  reklamcje. Więcej na zdjęciu",Usterka
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam prawo zrealizować zwrot produkty i go oddaje,Chciałbbym zwrócić
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam ustawowe prawo zwrócić towar i go zwracam,Zwracam
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar ostatnie?,Chciałbym zapytać o produkt
+ZWROT_PRODUKTU, posiadam ustawowe prawo zwrócić towary i go oddaje,Zwrot towaru
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt ostatnie?,Produkt
+DOSTAWA,Do dziś brak u mnie zamówione towaru,Brak towaru
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa tak sobie. Słabe to Magento,Zmieńcie to
+UWAGI_DO_SKLEPU,Wyszukiwanie na stronie działa wolno. Czas na zmiany,Zmieńcie to
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu, telefon nie działa. Muszę zgłosić jego reklamcje. Szczegóły na zdjęciu",Usterka
+REKLAMACJA_PRODUKTU,"Kwartał po zakupie, telefon dymi. Chciałem zgłosić  usterkę. Więcej w skanie",Zgłoszenie gwarancyjne
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Kiedy będzie realizowane,Zamówienie
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Kiedy będzie realizowane,Zamówienie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie ostatnie?,Chciałbym zapytać o produkt
+REKLAMACJA_PRODUKTU,"Naście dni po odebraniu, produkt zepsuło się. Chciałem zgłosić jego usterkę. Więcej w skanie",Gwarancja
+FAKTURY,"Nie mam faktury VAT do zamowienia, a wyraźnie prosiłem oto zamawiając towary",Brak faktury
+DOSTAWA,Do dziś brak u mnie kuriera,Brak przesyłki
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym e-sklepem przy organizacji raportu eksperckiego,Partnerstwo
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania reklamowe,Skuteczna reklama
+UWAGI_DO_SKLEPU,Wyszukiwanie na stronie działa wolno. Zmieńcie to bo wstyd,Zmieńcie to
+ZWROT_PRODUKTU,Mam pytanie o oddanie produktu. Czy mogę to zrobić gdy kupiłam produkt kilka dni temu i mam dowod zapłaty,Zwracam
+DOSTAWA,Wciąż brak u mnie przesyłki produktów,Brak towaru
+ZWROT_PRODUKTU,Mam pytanko o zwrot produktu. Czy mogę to wykonać jeśli otrzymałem urządzenie dwa dni temu i mam fakture,Zwrot towaru
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Pytanie o produkt
+FAKTURY,"Na fak. znaduje sie nieprawidłowy adres firmy. Jest al. Jedności Narodowej 4, a powinno być ul. Mickiewicza 14a/5 Kluczbork. Proszę o pilną korekte",Z bledem f-ra
+UWAGI_DO_SKLEPU,Wyszukiwakra w sklepie działa strasznie wolno. Wynajmićie lepszych programistów,Sugeruje
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania reklamowe,Skuteczna reklama
+REKLAMACJA_PRODUKTU,"Miesiąc po odebraniu, produkt nie działa. Chciałem zgłosić  usterkę. Szczegóły patrz załącznik",Reklamacja
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu, produkt nie działa. Chciałem zgłosić jego reklamcje. Szczegóły patrz załącznik",Gwarancja
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu ze sklepu, mikser nie włącza się. Chciałem zgłosić  usterkę. Więcej patrz załącznik",Reklamacja
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Pytanie o produkt
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa e-sklepem przy organizacji konferencji,Współpraca
+REKLAMACJA_PRODUKTU,"Miesiąc po odebraniu, urządzenie nie działa. Muszę zgłosić jego reklamcje. Więcej w skanie",Zgłoszenie gwarancyjne
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. ,Pytanie o zamówienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji stowarzyszenia e-commerce,Współpraca
+FAKTURY,"Na fakturze znajduje się zły adres spółki. Jest ul. Nicejska 30, a powinno być ul. Jedności Narodowej 3/12 Kluczbork. Proszę o pilną korekte",Bledna faktura VAR
+UWAGI_DO_SKLEPU,Obrazki na stronie działa tak sobie. Zmieńcie to bo wstyd,Zmieńcie to
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt na stanie?,Produkt
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupie, urządzenie nie działa. Muszę zgłosić  usterkę. Szczegóły w załączniku",Reklamacja
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa wolno. Zmieńcie to bo wstyd,Sugestia
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie na stanie?,Info o produkcie
+FAKTURY,"Zapomniałem wybrać opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+FAKTURY,"Nie wybrać funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu ze sklepu, urządzenie nie włącza się. Chciałem zgłosić  reklamcje. Więcej patrz załącznik",Gwarancja
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu ze sklepu, produkt zepsuło się. Chciałem zgłosić jego reklamcje. Szczegóły patrz załącznik",Gwarancja
+DOSTAWA,Wciąż brak u mnie kuriera,Brak towaru
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar na stanie?,Produkt
+FAKTURY,"Zapomniałem zaznaczyć opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+FAKTURY,"Na fak. jest nieprawidłowy adres spółki. Jest ul. Słowackiego 12/3, a powinno być ul. Mickiewicza 4 Nysa. Proszę o pilną korekte",Bledna faktura
+DOSTAWA,Wciąż brak u mnie przesyłki,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. ,Pytanie o zamówienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+DOSTAWA,Do dziś brak u mnie kuriera,Przesyłka
+DOSTAWA,Wciąż brak u mnie przesyłki,Brak przesyłki
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji targów branżowych,Partnerstwo
+INFORMACJE_O_ZAMOWIENIU, co z  zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+DOSTAWA,Do dziś brak u mnie przesyłki produktów,Brak przesyłki
+REKLAMACJA_PRODUKTU,"Kilka dni po odebraniu ze sklepu, telefon dymi. Muszę zgłosić  reklamcje. Szczegóły w załączniku",Usterka
+UWAGI_DO_SKLEPU,Wyszukiwakra na państwa stronie działa wolno. Wynajmićie lepszych programistów,Sugestia do działania sklepu
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie na stanie?,Info o produkcie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+REKLAMACJA_PRODUKTU,"Kwartał po zakupie, telefon nie włącza się. Chciałem zgłosić jego reklamcje. Więcej na zdjęciu",Reklamacja
+REKLAMACJA_PRODUKTU,"Tydzień po zakupieniu, telefon nie działa. Chciałem zgłosić  usterkę. Więcej patrz załącznik",Gwarancja
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+REKLAMACJA_PRODUKTU,"Miesiąc po odebraniu, urządzenie nie włącza się. Chciałem zgłosić  reklamcje. Więcej w załączniku",Reklamacja
+REKLAMACJA_PRODUKTU,"2 miesiące po zakupie, mikser nie działa. Muszę zgłosić  reklamcje. Więcej patrz załącznik",Gwarancja
+ZWROT_PRODUKTU,Mam question o zwrot towaru. Czy mogę to wykonać jeśli kupułem produkt dwa dni temu i mam dowod zapłaty,Zwrotka produktów
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji konferencji,Partnerstwo
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar ostatnie?,Info o produkcie
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa słabo. Słabe to Magento,Zmieńcie to
+UWAGI_DO_SKLEPU,Obrazki na stronie działa tak sobie. Czas na zmiany,Zmieńcie to
+ZWROT_PRODUKTU,Zgodnie  prawem musze urzadzenie oddać w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot produktu
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie ostatnie?,Chciałbym zapytać o produkt
+DOSTAWA,Wciąż brak u mnie przesyłki pocztowej,Brak towaru
+DOSTAWA,Wciąż brak u mnie przesyłki produktów,Brak przesyłki
+DOSTAWA,Do dziś brak u mnie kuriera,Brak przesyłki
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt dostępne?,Pytanie o produkt
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+FAKTURY,"Zapomniałem wybrać opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Kiedy będzie przesyłane,Zamowienie
+UWAGI_DO_SKLEPU,Chat na stronie działa słabo. Czas na zmiany,Sugestia do działania sklepu
+REKLAMACJA_PRODUKTU,"Naście dni po zakupie, mikser zepsuło się. Muszę zgłosić jego usterkę. Szczegóły patrz załącznik",Usterka
+REKLAMACJA_PRODUKTU,"Tydzień po odebraniu ze sklepu, urządzenie nie włącza się. Muszę zgłosić jego usterkę. Szczegóły na zdjęciu",Reklamacja
+FAKTURY,Na fakturze nie ma nipu . Zmieńcie to,Brak nip
+FAKTURY,"Zapomniałem zaznaczyć opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+REKLAMACJA_PRODUKTU,"Kwartał po zakupie, urządzenie nie włącza się. Muszę zgłosić jego reklamcje. Więcej patrz załącznik",Reklamacja
+REKLAMACJA_PRODUKTU,"Dziesięć dni po zakupie, produkt dymi. Muszę zgłosić jego reklamcje. Szczegóły w skanie",Gwarancja
+INFORMACJE_O_ZAMOWIENIU, co z  zamówieniem. Kiedy będzie przesyłane,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania promocyjne,Sprawny marketing
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam ustawowe prawo zrealizować zwrot produkty i go zwracam,Zwrot urządzenia
+DOSTAWA,Wciąż brak u mnie kuriera,Przesyłka
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Owocna współpraca
+FAKTURY,"Na fak. znaduje sie nieprawidłowy adres firmy. Jest ul. Wielka 4, a powinno być ul. Francuska 4 14a/5 Kluczbork. Proszę o pilną korekte",Z bledem faktura
+REKLAMACJA_PRODUKTU,"Miesiąc po zakupieniu, urządzenie zepsuło się. Chciałem zgłosić jego reklamcje. Więcej w załączniku",Gwarancja
+ZWROT_PRODUKTU,Zgodnie  prawem chciałbym produkt zwrcóić w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot produktu
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa tak sobie. Napiszcie to w django,Sugeruje
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Przesyłka
+UWAGI_DO_SKLEPU,Obrazki na stronie działa strasznie wolno. Napiszcie to w django,Sugestia do działania sklepu
+ZWROT_PRODUKTU,"Zgodnie polskim prawem chciałbym produkt oddać w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Chciałbbym zwrócić
+ZWROT_PRODUKTU,Mam question o zwrot towaru. Czy mogę to zrobić jeśli otrzymałam urządzenie kilka dni temu i mam fakture,Zwrot urządzenia
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Brak przesyłki
+DOSTAWA,Wciąż brak u mnie przesyłki pocztowej,Brak przesyłki
+FAKTURY,"Na fak. znaduje sie zły adres spółki. Jest ul. Wielka 12/3, a powinno być ul. Jedności Narodowej 4 Opole. Proszę o pilną korekte",Błędna f-ra
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie na stanie?,Produkt
+DOSTAWA,Wciąż brak u mnie przesyłki pocztowej,Przesyłka
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Kiedy będzie przesyłane,Pytanie o zamówienie
+ZWROT_PRODUKTU, posiadam ustawowe prawo zrealizować zwrot produkt i go oddaje,Zwrot
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+FAKTURY,"Zapomniałem wybrać funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, mikser nie włącza się. Chciałem zgłosić  usterkę. Więcej patrz załącznik",Gwarancja
+FAKTURY,"Na fak. jest zły dane firmy. Jest ul. Wielka 4, a powinno być ul. Francuska 4 14a/5 Nysa. Proszę o pilną korekte",Z bledem faktura VAR
+ZWROT_PRODUKTU,Zgodnie  prawem chce urzadzenie zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot produktu
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie mam ustawowe prawo zrealizować zwrot towar i go oddaje,Chciałbbym zwrócić
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie dostępne?,Produkt
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie w sklepie stacjonarnym?,Pytanie o produkt
+ZWROT_PRODUKTU,Mam pytanie o oddanie produktu. Czy mogę to wykonać jeśli kupiłam urządzenie 3 dni temu i mam fakture,Zwrot produktu
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie w sklepie stacjonarnym?,Produkt
+REKLAMACJA_PRODUKTU,"Naście dni po zakupieniu, produkt nie działa. Muszę zgłosić  usterkę. Więcej w załączniku",Reklamacja
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu, telefon dymi. Muszę zgłosić  reklamcje. Więcej w skanie",Gwarancja
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Czy towary są skompletowane,Zamowienie
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie w sklepie stacjonarnym?,Chciałbym zapytać o produkt
+DOSTAWA,No brak u mnie przesyłki pocztowej,Przesyłka
+DOSTAWA,Szkoda słów brak u mnie przesyłki pocztowej,Brak przesyłki
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z moim zamówieniem. Czy towary są skompletowane,Zamowienie
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa wolno. Zmieńcie to bo wstyd,Zmieńcie to
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa strasznie wolno. Słabe to Magento,Sugeruje
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa słabo. Słabe to Magento,Zmieńcie to
+FAKTURY,"Na fakturze znajduje się zły adres firmy. Jest ul. Wielka 30, a powinno być ul. Jedności Narodowej 4 Warszawa. Proszę o pilną korekte",Błędna faktura
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie ostatnie?,Produkt
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania reklamowe,Skuteczna reklama
+ZWROT_PRODUKTU, posiadam prawo oddać produkty i go oddaje,Zwrot produktu
+ZWROT_PRODUKTU,Mam question o zwrot urządzenia. Czy mogę to wykonać jeśli zakupiłam produkt dziesięć dni temu i mam fakture,Pytanie o zwrot
+UWAGI_DO_SKLEPU,Wyszukiwakra w sklepie działa tak sobie. Wynajmićie lepszych programistów,Sugeruje
+ZWROT_PRODUKTU,Zgodnie  prawem chciałbym urzadzenie zwrcóić w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot urządzenia
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Chciałbym zapytać o produkt
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar ostatnie?,Chciałbym zapytać o produkt
+FAKTURY,Na f-k niewidzę NIP . Zmieńcie to,Brak nip
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa e-sklepem przy organizacji stowarzyszenia e-commerce,Partnerstwo
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa wolno. Zmieńcie to bo wstyd,Sugestia
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Produkt
+FAKTURY,"Zapomniałem zaznaczyć opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",jak wygenerować fakture
+FAKTURY,Na fakturze niewidzę NIP . Zmieńcie to,NIP na fakturze
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt na stanie?,Pytanie o produkt
+ZWROT_PRODUKTU,Zgodnie polskim prawem musze produkt oddać w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot
+ZWROT_PRODUKTU,Mam question o oddanie urządzenia. Czy mogę to wykonać gdy kupułem produkt pięć dni temu i mam fakture,Chciałbbym zwrócić
+FAKTURY,"Zapomniałem zaznaczyć funkcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+ZWROT_PRODUKTU,Mam pytanie o zwrot urządzenia. Czy mogę to zrobić jeśli zakupiłam towar kilka dni temu i mam dowod zapłaty,Zwrot urządzenia
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z moim zamówieniem. ,Pytanie o zamówienie
+FAKTURY,"Nie mam f-ry do zamówienia, a bardzo mi zależało",Nie ma f-r
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Chciałbym zapytać o produkt
+DOSTAWA,No brak u mnie przesyłki produktów,Brak towaru
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt ostatnie?,Info o produkcie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Chciałbym zapytać o produkt
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt ostatnie?,Pytanie o produkt
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. Kiedy będzie realizowane,Zamówienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa sklepem przy organizacji konferencji,Partnerstwo
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym e-sklepem przy organizacji konferencji,Współpraca
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa e-sklepem przy organizacji konferencji,Współpraca
+REKLAMACJA_PRODUKTU,"Tydzień po zakupie, produkt dymi. Chciałem zgłosić jego usterkę. Szczegóły na zdjęciu",Gwarancja
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Waszym sklepem przy organizacji konferencji,Partnerstwo
+DOSTAWA,Do dziś brak u mnie przesyłki,Brak przesyłki
+UWAGI_DO_SKLEPU,Chat na stronie działa tak sobie. Zmieńcie to bo wstyd,Zmieńcie to
+REKLAMACJA_PRODUKTU,"Naście dni po odebraniu ze sklepu, mikser zepsuło się. Chciałem zgłosić jego usterkę. Szczegóły patrz załącznik",Usterka
+REKLAMACJA_PRODUKTU,"Dziesięć dni po zakupie, telefon nie działa. Chciałem zgłosić  reklamcje. Szczegóły w skanie",Gwarancja
+FAKTURY,"Nie mam faktury do zamówienia, a wyraźnie prosiłem oto zamawiając towary",Nie ma f-r
+UWAGI_DO_SKLEPU,Obrazki na stronie działa słabo. Wynajmićie lepszych programistów,Sugestia do działania sklepu
+INFORMACJE_O_ZAMOWIENIU, co z naszym zamówieniem. Czy towary są skompletowane,Zamówienie
+FAKTURY,"Na fakturze znaduje sie nieprawidlowy dane spolki. Jest al. Jedności Narodowej 4, a powinno być ul. Mickiewicza 4 Wrocław. Proszę o pilną korekte",Z bledem f-ra
+ZWROT_PRODUKTU,Mam pytanie o zwrot towaru. Czy mogę to zrobić jeśli otrzymałem towar 4 dni temu i mam fakture,Zwrotka produktów
+ZWROT_PRODUKTU,"Zgodnie polskim prawem musze produkt zwrcóić w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Zwrot urządzenia
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu, produkt nie działa. Muszę zgłosić jego reklamcje. Szczegóły na zdjęciu",Usterka
+REKLAMACJA_PRODUKTU,"Kwartał po zakupieniu, urządzenie zepsuło się. Muszę zgłosić jego usterkę. Więcej w załączniku",Reklamacja
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo zwrócić urządzenie i go oddaje,Zwrot towaru
+REKLAMACJA_PRODUKTU,"Kwartał po zakupie, produkt zepsuło się. Chciałem zgłosić jego usterkę. Szczegóły w załączniku",Zgłoszenie gwarancyjne
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Państwa sklepem przy organizacji raportu eksperckiego,Współpraca
+DOSTAWA,No brak u mnie kuriera,Brak towaru
+DOSTAWA,No brak u mnie kuriera,Przesyłka
+UWAGI_DO_SKLEPU,Wyszukiwakra na państwa stronie działa strasznie wolno. Zmieńcie to bo wstyd,Sugestia
+ZWROT_PRODUKTU,Mam question o oddanie urządzenia. Czy mogę to zrealizować gdy kupiłam urządzenie pięć dni temu i mam dowod zapłaty,Zwrotka produktów
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie w sklepie stacjonarnym?,Pytanie o produkt
+REKLAMACJA_PRODUKTU,"Kilka dni po odebraniu, mikser nie włącza się. Chciałem zgłosić  usterkę. Więcej w skanie",Reklamacja
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa sklepem przy organizacji targów branżowych,Współpraca
+FAKTURY,"Nie mam f-ry do zamowienia, a bardzo mi zależało",Nie ma faktury VAT
+REKLAMACJA_PRODUKTU,"Kilka dni po zakupieniu, produkt nie włącza się. Muszę zgłosić jego reklamcje. Więcej w załączniku",Usterka
+UWAGI_DO_SKLEPU,Chat w sklepie działa tak sobie. Słabe to Magento,Sugestia do działania sklepu
+DOSTAWA,No brak u mnie przesyłki,Przesyłka
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Kiedy będzie realizowane,Zamowienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie ostatnie?,Pytanie o produkt
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar dostępne?,Pytanie o produkt
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z  zamówieniem. Czy towary są skompletowane,Zamówienie
+REKLAMACJA_PRODUKTU,"Tydzień po odebraniu, mikser zepsuło się. Muszę zgłosić jego reklamcje. Szczegóły na zdjęciu",Gwarancja
+REKLAMACJA_PRODUKTU,"Dziesięć dni po odebraniu ze sklepu, urządzenie zepsuło się. Muszę zgłosić jego usterkę. Szczegóły w załączniku",Usterka
+DOSTAWA,Wciąż brak u mnie kuriera,Przesyłka
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na skuteczna reklama,Owocna współpraca
+UWAGI_DO_SKLEPU,Chat w sklepie działa słabo. Słabe to Magento,Sugestia do działania sklepu
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. ,Zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo towar na stanie?,Info o produkcie
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
+DOSTAWA,Wciąż brak u mnie zamówione towaru,Przesyłka
+ZWROT_PRODUKTU,Mam question o zwrot produktu. Czy mogę to zrobić gdy kupiłam towar kilka dni temu i mam dowod zapłaty,Zwracam
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Brak przesyłki
+UWAGI_DO_SKLEPU,Wyszukiwakra na państwa stronie działa wolno. Czas na zmiany,Sugeruje
+ZWROT_PRODUKTU,Zgodnie  prawem chce towar zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot produktu
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na skuteczna reklama,Skuteczna reklama
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa tak sobie. Czas na zmiany,Sugeruje
+REKLAMACJA_PRODUKTU,"Kwartał po zakupieniu, urządzenie zepsuło się. Muszę zgłosić  reklamcje. Więcej w załączniku",Usterka
+FAKTURY,Na fakturze brak jest NIP i nie moge rozliczyc faktury u ksiegowej mojej. Zmieńcie to,NIP na fakturze
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar w sklepie stacjonarnym?,Pytanie o produkt
+FAKTURY,Na fakturze brak jest NIP . Zmieńcie to,Gdzi nip
+REKLAMACJA_PRODUKTU,"2 miesiące po odebraniu ze sklepu, produkt zepsuło się. Chciałem zgłosić  reklamcje. Szczegóły na zdjęciu",Usterka
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania promocyjne,Sprawny marketing
+ZWROT_PRODUKTU,Mam pytanko o oddanie towaru. Czy mogę to wykonać jeśli kupułem urządzenie cztery dni temu i mam paragon,Zwrotka produktów
+REKLAMACJA_PRODUKTU,"Miesiąc po odebraniu, produkt nie działa. Muszę zgłosić  usterkę. Szczegóły w załączniku",Zgłoszenie gwarancyjne
+ZWROT_PRODUKTU,Zgodnie  prawem musze urzadzenie oddać w ciągu 14 dni. Zwrot musi być realizowany.,Zwrot towaru
+DOSTAWA,Do dziś brak u mnie przesyłki pocztowej,Przesyłka
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam ustawowe prawo zwrócić produkty i go zwracam,Zwrot produktu
+DOSTAWA,Wciąż brak u mnie przesyłki,Przesyłka
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa wolno. Zmieńcie to bo wstyd,Sugestia
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam prawo oddać urządzenie i go zwracam,Zwrot produktu
+DOSTAWA,Do dziś brak u mnie przesyłki produktów,Przesyłka
+ZWROT_PRODUKTU,Zgodnie  prawem chciałbym produkt zwrcóić w ciągu 14 dni. Proszę o pozytywne rozpatrzenie zwrotu.,Zwrot produktu
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie dostępne?,Pytanie o produkt
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na działania promocyjne,Skuteczna reklama
+UWAGI_DO_SKLEPU,Wyszukiwakra w sklepie działa słabo. Wynajmićie lepszych programistów,Sugeruje
+REKLAMACJA_PRODUKTU,"Tydzień po odebraniu ze sklepu, mikser nie działa. Muszę zgłosić jego usterkę. Szczegóły w załączniku",Usterka
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo produkt dostępne?,Produkt
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo produkt dostępne?,Chciałbym zapytać o produkt
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferty na działania promocyjne,Skuteczna reklama
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji targów branżowych,Partnerstwo
+FAKTURY,"Na fakturze znajduje się zły dane spółki. Jest ul. Nicejska 12/3, a powinno być ul. Francuska 4 14a/5 Nysa. Proszę o pilną korekte",Z błędem faktura
+REKLAMACJA_PRODUKTU,"Kwartał po odebraniu, urządzenie nie włącza się. Chciałem zgłosić  usterkę. Więcej patrz załącznik",Zgłoszenie gwarancyjne
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania reklamowe,Skuteczna reklama
+DOSTAWA,Szkoda słów brak u mnie przesyłki produktów,Brak przesyłki
+FAKTURY,Na fakturze brak jest nipu i nie moge rozliczyc faktury u ksiegowej mojej. Zmieńcie to,NIP na fakturze
+ZWROT_PRODUKTU,"Zgodnie  prawem chciałbym produkt zwrcóić w ciągu 14 dni. Ufam, że zaakceptujecie zwrot.",Zwrot towaru
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa słabo. Czas na zmiany,Sugeruje
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z  zamówieniem. ,Pytanie o zamówienie
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie dostępne?,Info o produkcie
+UWAGI_DO_SKLEPU,Chat na stronie działa słabo. Wynajmićie lepszych programistów,Sugeruje
+INFORMACJE_O_ZAMOWIENIU, co z moim zamówieniem. ,Zamowienie
+UWAGI_DO_SKLEPU,Obrazki na państwa stronie działa strasznie wolno. Zmieńcie to bo wstyd,Sugestia
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z moim zamówieniem. Kiedy będzie przesyłane,Zamówienie
+DOSTAWA,No brak u mnie zamówione towaru,Brak przesyłki
+DOSTAWA,No brak u mnie kuriera,Przesyłka
+ZWROT_PRODUKTU,Czy Wam się podoba czy nie posiadam prawo zwrócić towary i go zwracam,Zwrot urządzenia
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie na stanie?,Pytanie o produkt
+UWAGI_DO_SKLEPU,Chat w sklepie działa tak sobie. Napiszcie to w django,Sugestia do działania sklepu
+INFORMACJE_O_PRODUKCIE,Czy posiadają Państwo urządzenie w sklepie stacjonarnym?,Pytanie o produkt
+DOSTAWA,Wciąż brak u mnie zamówione towaru,Brak przesyłki
+DOSTAWA,No brak u mnie kuriera,Przesyłka
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo towar dostępne?,Chciałbym zapytać o produkt
+FAKTURY,Na f-k niewidzę NIP i nie mam jak rozliczyć. Zmieńcie to,Gdzi nip
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa tak sobie. Wynajmićie lepszych programistów,Sugeruje
+FAKTURY,"Zapomniałem wybrać opcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+INFORMACJE_O_ZAMOWIENIU, co z  zamówieniem. Kiedy będzie przesyłane,Zamowienie
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy współpracować z Waszym e-sklepem przy organizacji stowarzyszenia e-commerce,Współpraca
+UWAGI_DO_SKLEPU,Chat na stronie działa słabo. Wynajmićie lepszych programistów,Sugestia
+UWAGI_DO_SKLEPU,Chat w sklepie działa wolno. Zmieńcie to bo wstyd,Sugestia
+DOSTAWA,Szkoda słów brak u mnie przesyłki,Przesyłka
+UWAGI_DO_SKLEPU,Obrazki w sklepie działa tak sobie. Napiszcie to w django,Sugestia
+FAKTURY,Na fakturze nie ma nipu . Zmieńcie to,Gdzi nip
+INFORMACJE_O_ZAMOWIENIU,Chciałbym spytać co z naszym zamówieniem. Kiedy będzie realizowane,Pytanie o zamówienie
+FAKTURY,"Nie wybrać opcje f-r czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura vat
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania reklamowe,Owocna współpraca
+FAKTURY,"Nie wybrać opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+UWAGI_DO_SKLEPU,Chat w sklepie działa strasznie wolno. Zmieńcie to bo wstyd,Sugeruje
+DOSTAWA,Wciąż brak u mnie przesyłki,Brak towaru
+WSPOLPRACA_ZE_SKLEPEM,Chcielibyśmy nawiązać partnerstwo z Państwa e-sklepem przy organizacji targów branżowych,Partnerstwo
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferte na działania promocyjne,Skuteczna reklama
+REKLAMACJA_PRODUKTU,"2 miesiące po zakupie, urządzenie nie działa. Muszę zgłosić  usterkę. Szczegóły patrz załącznik",Gwarancja
+DOSTAWA,Wciąż brak u mnie zamówione towaru,Przesyłka
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani otrzymać oferty na skuteczna reklama,Skuteczna reklama
+INFORMACJE_O_PRODUKCIE,Czy mają Państwo urządzenie dostępne?,Chciałbym zapytać o produkt
+UWAGI_DO_SKLEPU,Wyszukiwakra na stronie działa tak sobie. Napiszcie to w django,Sugestia
+UWAGI_DO_SKLEPU,Chat na państwa stronie działa wolno. Wynajmićie lepszych programistów,Zmieńcie to
+FAKTURY,Na fakturze nie ma nipu i nie mam jak rozliczyć. Zmieńcie to,Gdzi nip
+FAKTURY,"Nie mam f-ry do zamówienia, a bardzo mi zależało",Nie ma f-r
+WSPOLPRACA_ZE_SKLEPEM,Czy są Państwo zainteresowani odebrać oferte na działania reklamowe,Sprawny marketing
+FAKTURY,"Zapomniałem zaznaczyć opcje faktury czy możecie mi szybko wystawić na dane Jan Kowalski, ul. Słowaczkiego 12/3. Dzięki!",Faktura
+INFORMACJE_O_ZAMOWIENIU,Mam pytanie co z naszym zamówieniem. Czy towary są skompletowane,Pytanie o zamówienie
